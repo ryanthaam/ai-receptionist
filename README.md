@@ -5,8 +5,6 @@ Voice-first AI receptionist for small-to-medium businesses. Handles calls, booki
 
 **Document Version:** 1.0  
 **Last Updated:** January 2025  
-**Status:** In Review  
-**Classification:** Confidential
 
 ---
 
